@@ -21,7 +21,7 @@
 
 ### OSCP Reviews and Guides
 
-- [X] [Official OSCP Certification Exam Guide](https://support.offensive-security.com/oscp-exam-guide/)
+- [X] ~~[Official OSCP Certification Exam Guide](https://support.offensive-security.com/oscp-exam-guide/)~~
 - Luke’s Ultimate OSCP Guide ( 
   
   [ ] [Part 1](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440), 
