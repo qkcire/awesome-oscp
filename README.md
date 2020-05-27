@@ -24,9 +24,9 @@
 - [X] ~~[Official OSCP Certification Exam Guide](https://support.offensive-security.com/oscp-exam-guide/)~~
 - Luke’s Ultimate OSCP Guide ( 
   
-  [ ] [Part 1](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440), 
+  [X] ~~[Part 1](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440)~~, 
   
-  [ ] [Part 2](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-2-workflow-and-documentation-tips-9dd335204a48), 
+  [X] ~~[Part 2](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-2-workflow-and-documentation-tips-9dd335204a48)~~, 
   
   [ ] [Part 3](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97))
 - [How to prepare for PWK/OSCP, a noob-friendly guide](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob)
